@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="29" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="entrada01" alignment="0" pref="34" max="32767" attributes="0"/>
+                          <Component id="hm1" pref="34" max="32767" attributes="0"/>
+                          <Component id="memval01" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                              <Component id="titulo1" min="-2" pref="313" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="entrada02" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="entrada03" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <Component id="hm2" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="hm3" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="hm4" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="hm5" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="hm6" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <Component id="entrada04" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="entrada05" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="entrada06" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="entrada07" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="entrada08" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="entrada09" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <Component id="hm7" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="hm8" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="hm9" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="memval02" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval03" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval04" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval05" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval06" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval07" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval08" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="memval09" min="-2" pref="34" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="117" max="-2" attributes="0"/>
+                                      <Component id="verifica" min="-2" pref="80" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" attributes="0">
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="102" alignment="0" attributes="0">
+                                                          <Component id="entrada10" min="-2" pref="34" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="entrada11" min="-2" pref="34" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="entrada12" min="-2" pref="34" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="hm10" min="-2" pref="34" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="hm11" min="-2" pref="34" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="hm12" min="-2" pref="34" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="entrada13" min="-2" pref="34" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" alignment="1" attributes="0">
+                                                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                                          <Component id="hm13" min="-2" pref="34" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="memval10" min="-2" pref="34" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="memval11" min="-2" pref="34" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="memval12" min="-2" pref="34" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="memval13" min="-2" pref="34" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Component id="limpa" min="-2" pref="80" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="entrada14" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <Component id="memval14" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <Component id="hm14" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="hm15" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <Component id="entrada15" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <Component id="memval15" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="hm16" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <Component id="entrada16" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <Component id="memval16" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="memoria1" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria2" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria3" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria4" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="memoria5" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria6" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria7" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria8" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="memoria9" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria10" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria11" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria12" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="memoria13" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria14" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria15" min="-2" pref="34" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="memoria16" min="-2" pref="34" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Component id="rbmemoi" alignment="1" min="-2" pref="168" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="cbxacesso" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="titulo2" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="cbxpalavra" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblvia" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="18" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Component id="titulo1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="entrada01" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada02" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada03" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada04" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada05" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada06" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada07" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada08" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada09" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada10" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada11" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada12" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada13" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada14" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada15" alignment="3" max="32767" attributes="0"/>
+                  <Component id="entrada16" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="hm7" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="hm8" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="hm9" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="hm10" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="hm1" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm2" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm3" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm4" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm5" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm6" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm12" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm13" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm14" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm15" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm16" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="hm11" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="memval01" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval02" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval03" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval04" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval05" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval06" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval07" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval08" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval09" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval10" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval11" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval12" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval13" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval14" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval15" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="memval16" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="titulo2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblvia" alignment="3" min="-2" pref="48" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="cbxacesso" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cbxpalavra" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Component id="rbmemoi" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="memoria1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="memoria5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="memoria9" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria10" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria12" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="memoria13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria15" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="memoria16" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="36" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="verifica" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="limpa" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="entrada01">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada02">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada03">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada04">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada05">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada06">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada07">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada08">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada09">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada10">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada11">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada12">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada13">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada14">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada15">
+    </Component>
+    <Component class="javax.swing.JTextField" name="entrada16">
+    </Component>
+    <Component class="javax.swing.JLabel" name="titulo1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Colocar os numeros para ver se e miss ou hit"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="titulo2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vias/ Mapeamento"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="verifica">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="verificar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="verificaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cbxacesso">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="1 -  Direto"/>
+            <StringItem index="1" value="2 - Associativo por 4 conjuntos"/>
+            <StringItem index="2" value="4 - Associativo por 2 conjuntos"/>
+            <StringItem index="3" value="8 - Totalmente associativo"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cbxacessoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm1">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm2">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm3">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm4">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm5">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm6">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm7">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm8">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm9">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm10">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm11">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm12">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm13">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm14">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm15">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hm16">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval01">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval02">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval03">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval04">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval05">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval06">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval07">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval08">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval09">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval10">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval11">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval12">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval13">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval14">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval15">
+    </Component>
+    <Component class="javax.swing.JLabel" name="memval16">
+    </Component>
+    <Component class="javax.swing.JButton" name="limpa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="limpar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="limpaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria3">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria4">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria5">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria6">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria7">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria8">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="rbmemoi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" valor de memoria inicial"/>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="rbmemoiItemStateChanged"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbmemoiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cbxpalavra">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="1">
+            <StringItem index="0" value="64"/>
+          </StringArray>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="inheritsPopupMenu" type="boolean" value="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cbxpalavraActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblvia">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quantas palavras tem na memoria"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria9">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria10">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria11">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria12">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria13">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria14">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria15">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="memoria16">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
